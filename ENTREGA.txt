@@ -1,0 +1,8 @@
+=== GLOBAL SOLUTION 2026.2 ===
+Disciplina: Cross-Platform Application Development
+Desafio: Territory Predictive Insights
+
+Integrante 1: Guilherme Verrillo Peres | RM: 563981
+
+GitHub: PENDENTE — criar e publicar repositório público
+Vídeo: PENDENTE — gravar e publicar demonstração de até 3 minutos

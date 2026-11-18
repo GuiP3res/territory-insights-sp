@@ -1,0 +1,5 @@
+Territory Insights SP — demonstração
+Fonte: capturas reais do Flutter Web release, viewport 420x760
+Duração: 40 segundos
+Áudio: sem áudio; legendas queimadas no vídeo
+Sequência: consentimento, visão geral, clima, hídrico, serviços, alertas, ocorrência e detalhe.

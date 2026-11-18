@@ -1,0 +1,16 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - web/**
+    - linux/**
+  errors:
+    deprecated_member_use: ignore
+    curly_braces_in_flow_control_structures: ignore
+    no_wildcard_variable_uses: ignore
+
+linter:
+  rules:
+    avoid_print: true
+    prefer_const_constructors: true

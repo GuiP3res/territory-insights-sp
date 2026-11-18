@@ -1,0 +1,10 @@
+Validação executada em 2026-11-18
+Flutter: 3.50.0
+Dart: 3.14.0
+flutter pub get: aprovado
+flutter analyze: aprovado — No issues found
+flutter test: aprovado — 1 teste passou
+flutter build web --release: aprovado
+flutter build apk --release: não executado — Android SDK ausente
+Capturas reais: aprovadas em Flutter Web, viewport 420x760
+Vídeo: territory-insights-sp-demo.mp4, 40 segundos, H.264, sem áudio, legendas embutidas
