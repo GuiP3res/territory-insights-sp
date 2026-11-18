@@ -91,7 +91,7 @@ Projeto acadêmico produzido para a FIAP, disciplina Cross-Platform Application 
 | Formulário | Concluído no código | `OccurrenceScreen` | Validações e feedback presentes |
 | Testes Flutter | Concluído | `test/alert_rules_test.dart` | `flutter test`: 1 teste aprovado |
 | APK release | Pendente | — | Flutter ausente |
-| GitHub público | Em publicação | repositório `territory-insights-sp` | será registrado após o push |
+| GitHub público | Concluído | `https://github.com/GuiP3res/territory-insights-sp` | repositório público verificado |
 | Vídeo | Pendente | — | Link não fornecido |
 | Capturas reais | Concluído | `assets/screenshots/*.png` | Flutter Web release em 420×760 |
 
