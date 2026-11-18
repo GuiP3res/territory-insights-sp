@@ -69,7 +69,7 @@ Não há coleta de nome, documento ou localização precisa. A ocorrência solic
 5. Execute `flutter run`.
 6. Para release, execute `flutter build apk --release`.
 
-Neste ambiente, Flutter 3.50.0/Dart 3.14.0 foram instalados. `flutter pub get`, `flutter analyze`, `flutter test` e `flutter build web --release` foram executados com sucesso. O APK release foi gerado com sucesso e está em [`releases/territory-insights-sp-release.apk`](releases/territory-insights-sp-release.apk).
+Neste ambiente, Flutter 3.50.0/Dart 3.14.0 foram instalados. `flutter pub get`, `flutter analyze`, `flutter test` e `flutter build web --release` foram executados com sucesso. O APK release foi gerado com sucesso e está em [`releases/territory-insights-sp-release.apk`](releases/territory-insights-sp-release.apk). Também está disponível na [release v1.0.0](https://github.com/GuiP3res/territory-insights-sp/releases/tag/v1.0.0).
 
 ## 9. Vídeo
 
