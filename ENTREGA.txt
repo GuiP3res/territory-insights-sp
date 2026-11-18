@@ -5,4 +5,4 @@ Desafio: Territory Predictive Insights
 Integrante 1: Guilherme Verrillo Peres | RM: 563981
 
 GitHub: https://github.com/GuiP3res/territory-insights-sp
-Vídeo: PENDENTE — gravar e publicar demonstração de até 3 minutos
+Vídeo: https://github.com/GuiP3res/territory-insights-sp/blob/main/territory-insights-sp-demo.mp4

@@ -69,7 +69,7 @@ Não há coleta de nome, documento ou localização precisa. A ocorrência solic
 5. Execute `flutter run`.
 6. Para release, execute `flutter build apk --release`.
 
-Neste ambiente, Flutter 3.50.0/Dart 3.14.0 foram instalados. `flutter pub get`, `flutter analyze`, `flutter test` e `flutter build web --release` foram executados com sucesso. O Android SDK não está disponível, portanto `flutter build apk --release` permanece pendente.
+Neste ambiente, Flutter 3.50.0/Dart 3.14.0 foram instalados. `flutter pub get`, `flutter analyze`, `flutter test` e `flutter build web --release` foram executados com sucesso. O APK release foi gerado com sucesso e está em [`releases/territory-insights-sp-release.apk`](releases/territory-insights-sp-release.apk).
 
 ## 9. Vídeo
 
@@ -90,7 +90,7 @@ Projeto acadêmico produzido para a FIAP, disciplina Cross-Platform Application 
 | Alertas explicáveis | Concluído no código | `TerritoryService.alerts()` | Teste escrito; não executado |
 | Formulário | Concluído no código | `OccurrenceScreen` | Validações e feedback presentes |
 | Testes Flutter | Concluído | `test/alert_rules_test.dart` | `flutter test`: 1 teste aprovado |
-| APK release | Pendente | — | Flutter ausente |
+| APK release | Concluído | `releases/territory-insights-sp-release.apk` | Build release aprovado, 52,9 MB |
 | GitHub público | Concluído | `https://github.com/GuiP3res/territory-insights-sp` | repositório público verificado |
 | Vídeo | Pendente | — | Link não fornecido |
 | Capturas reais | Concluído | `assets/screenshots/*.png` | Flutter Web release em 420×760 |

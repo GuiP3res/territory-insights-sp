@@ -5,6 +5,7 @@ analyzer:
     - build/**
     - web/**
     - linux/**
+    - android/**
   errors:
     deprecated_member_use: ignore
     curly_braces_in_flow_control_structures: ignore
