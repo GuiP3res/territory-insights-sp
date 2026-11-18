@@ -93,7 +93,7 @@ Projeto acadêmico produzido para a FIAP, disciplina Cross-Platform Application 
 | APK release | Concluído | `releases/territory-insights-sp-release.apk` | Build release aprovado, 52,9 MB |
 | GitHub público | Concluído | `https://github.com/GuiP3res/territory-insights-sp` | repositório público verificado |
 | Vídeo | Pendente | — | Link não fornecido |
-| Capturas reais | Concluído | `assets/screenshots/*.png` | Flutter Web release em 420×760 |
+| Capturas reais | Concluído | `assets/screenshots/*.png` | Flutter Web release em 420×760 e 768×1024 |
 
 ## 11. Entrega
 

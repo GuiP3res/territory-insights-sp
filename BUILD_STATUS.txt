@@ -8,3 +8,5 @@ flutter build web --release: aprovado
 flutter build apk --release: aprovado — releases/territory-insights-sp-release.apk (52,9 MB)
 Capturas reais: aprovadas em Flutter Web, viewport 420x760
 Vídeo: territory-insights-sp-demo.mp4, 40 segundos, H.264, sem áudio, legendas embutidas
+
+Responsividade: capturas verificadas em 420x760 (8 rotas) e 768x1024 (7 rotas; a rota de detalhe foi validada no tamanho mobile).
