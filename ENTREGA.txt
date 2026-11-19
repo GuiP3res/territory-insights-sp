@@ -1,8 +1,14 @@
-=== GLOBAL SOLUTION 2026.2 ===
+Projeto: Territory Insights SP
+Aluno: Guilherme Verrillo Peres
+RM: 563981
 Disciplina: Cross-Platform Application Development
-Desafio: Territory Predictive Insights
+Projeto: Global Solution 2026.2
 
-Integrante 1: Guilherme Verrillo Peres | RM: 563981
+Repositório GitHub:
+https://github.com/GuiP3res/territory-insights-sp
 
-GitHub: https://github.com/GuiP3res/territory-insights-sp
-Vídeo: https://github.com/GuiP3res/territory-insights-sp/blob/main/territory-insights-sp-demo.mp4
+Vídeo de demonstração:
+https://youtu.be/TE2Tp9ubuRk
+
+Release APK:
+https://github.com/GuiP3res/territory-insights-sp/releases/tag/v1.0.0
